@@ -1,3 +1,6 @@
+# CIS-117 Lab3
+# Reads country_full.csv and splits countries into separate CSV files by region.
+# Mark Demot
 import csv
 
 def split_countries_by_region(input_filename):
